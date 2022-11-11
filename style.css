@@ -1,0 +1,59 @@
+.imag {
+    height: 700px;
+}
+
+a.text1 {
+    font-family: 'Noto Sans Mono', monospace;
+
+}
+
+.abtus {
+    background-color: #ececec;
+}
+
+.hr1 {
+    border: 2px solid;
+    margin: 25px auto;
+    max-width: 250px;
+}
+
+.iicon {
+    position: relative;
+    bottom: 60px;
+    font-size: 40px;
+    border: 10px solid white;
+    background-color: white;
+}
+
+.iicon1 {
+    position: relative;
+    bottom: 60px;
+    font-size: 40px;
+    border: 10px solid #ececec;
+    background-color: #ececec;
+}
+
+.star{
+    color: rgb(199, 199, 9);
+}
+
+.comment1>img:hover{ opacity: 0.8;}
+
+.Gallery{
+    background-color: #ececec;
+
+
+}
+.figure:hover{ 
+    opacity: 0.8;
+}
+
+.form-group{
+    margin-bottom: 15px;
+}   
+
+
+.deneme{ 
+width: 1000px;
+margin: 50px;
+}
